@@ -19,7 +19,12 @@ Pivot Tables:
 
 Used to summarize data dynamically.
 
-## Visualization
+## Dashboard & Visualization
+
+* Pivot table was used to find total sales, total profit, average sales etc.
+
+* Using pivot table graphs was plotted
+
 * Bar Charts & Column Charts for product and region-wise comparison
 
 * Pie Charts for percentage share visualization

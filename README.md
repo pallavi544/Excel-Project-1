@@ -10,14 +10,10 @@ This project is an **interactive sales dashboard** built in Excel, designed to p
   - Average Sales per Transaction: `$3,553.05`
   - Total Quantity Ordered: `96,428`
   - Total Price Sum: `$277,718.82`
-
----
   
 - **Interactive Filters**:
   - **Order Date Filter**: Select from various order dates.
   - **Country Filter**: Filter sales data by country (e.g., Australia, Austria, Belgium, Canada, etc.).
-
- ---
 
 - **Data Visualizations**:
   - **Pie Chart**: Shows sales distribution by **product line** (Classic Cars, Motorcycles, Planes, Ships, etc.).

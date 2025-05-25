@@ -1,35 +1,43 @@
 # Excel-Project-1
-This project is a comprehensive example of using Microsoft Excel for performing sales data analysis and creating an interactive dashboard. It demonstrates how Excel can be used to turn raw data into meaningful insights through formulas, charts, and data visualization tools.
-Project Overview
-The goal of this project is to analyze product sales data and build a dashboard that summarizes key performance metrics. It includes:
+## Overview
+This project is an **interactive sales dashboard** built in Excel, designed to provide valuable business insights through **data visualization**. It allows users to analyze sales performance across different **product lines**, track revenue trends, and explore order details using dynamic filters.
 
-## Data Cleaning & Preparation
-* Organized and labeled data
+---
 
-* Proper formatting for readability
+## Features
+- **Key Metrics Overview**:
+  - Total Sales: `$9,760,221.71`
+  - Average Sales per Transaction: `$3,553.05`
+  - Total Quantity Ordered: `96,428`
+  - Total Price Sum: `$277,718.82`
 
-* Removal of inconsistencies
+---
+  
+- **Interactive Filters**:
+  - **Order Date Filter**: Select from various order dates.
+  - **Country Filter**: Filter sales data by country (e.g., Australia, Austria, Belgium, Canada, etc.).
 
-## Analytical Tools Used
-Functions:
+ ---
 
-* SUM, AVERAGE,  etc.
+- **Data Visualizations**:
+  - **Pie Chart**: Shows sales distribution by **product line** (Classic Cars, Motorcycles, Planes, Ships, etc.).
+  - **Line Chart**: Displays sum of quantity ordered across different product lines.
+  - **Bar Chart**: Highlights sum of sales by product category.
 
-Pivot Tables:
+---
 
-Used to summarize data dynamically.
+## Technologies Used
+- **Excel** (Pivot Tables, Charts, Filters)
+- **VBA Macros** (if applicable)
+- **Data Analytics** techniques
 
-## Dashboard & Visualization
+---
 
-* Pivot table was used to find total sales, total profit, average sales etc.
+## Future Enhancements
+- Integration with **Power BI** for advanced analytics.
+- **Automated report generation** for real-time business insights.
 
-* Using pivot table graphs was plotted
-
-* Bar Charts & Column Charts for product and region-wise comparison
-
-* Pie Charts for percentage share visualization
-
-* Interactive Dashboard Layout to present KPIs in a visual format
+---
 
 ## How to Open and Run This Project Locally
 ### Steps to Run the Project
